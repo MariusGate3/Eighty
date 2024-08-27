@@ -1,0 +1,14 @@
+C:\Users\mariu\SideProjects\eighty\bin\Debug\net8.0\eighty.exe
+C:\Users\mariu\SideProjects\eighty\bin\Debug\net8.0\eighty.deps.json
+C:\Users\mariu\SideProjects\eighty\bin\Debug\net8.0\eighty.runtimeconfig.json
+C:\Users\mariu\SideProjects\eighty\bin\Debug\net8.0\eighty.dll
+C:\Users\mariu\SideProjects\eighty\bin\Debug\net8.0\eighty.pdb
+C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\eighty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\eighty.AssemblyInfoInputs.cache
+C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\eighty.AssemblyInfo.cs
+C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\eighty.csproj.CoreCompileInputs.cache
+C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\eighty.dll
+C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\refint\eighty.dll
+C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\eighty.pdb
+C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\eighty.genruntimeconfig.cache
+C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\ref\eighty.dll
