@@ -12,3 +12,4 @@ C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\refint\eighty.dll
 C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\eighty.pdb
 C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\eighty.genruntimeconfig.cache
 C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\ref\eighty.dll
+C:\Users\mariu\SideProjects\eighty\obj\Debug\net8.0\eighty.sourcelink.json
